@@ -1,0 +1,14 @@
+E:\C#\alaa\LinQ\LinQ\bin\Debug\net8.0\LinQ.exe
+E:\C#\alaa\LinQ\LinQ\bin\Debug\net8.0\LinQ.deps.json
+E:\C#\alaa\LinQ\LinQ\bin\Debug\net8.0\LinQ.runtimeconfig.json
+E:\C#\alaa\LinQ\LinQ\bin\Debug\net8.0\LinQ.dll
+E:\C#\alaa\LinQ\LinQ\bin\Debug\net8.0\LinQ.pdb
+E:\C#\alaa\LinQ\LinQ\obj\Debug\net8.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\alaa\LinQ\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfoInputs.cache
+E:\C#\alaa\LinQ\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfo.cs
+E:\C#\alaa\LinQ\LinQ\obj\Debug\net8.0\LinQ.csproj.CoreCompileInputs.cache
+E:\C#\alaa\LinQ\LinQ\obj\Debug\net8.0\LinQ.dll
+E:\C#\alaa\LinQ\LinQ\obj\Debug\net8.0\refint\LinQ.dll
+E:\C#\alaa\LinQ\LinQ\obj\Debug\net8.0\LinQ.pdb
+E:\C#\alaa\LinQ\LinQ\obj\Debug\net8.0\LinQ.genruntimeconfig.cache
+E:\C#\alaa\LinQ\LinQ\obj\Debug\net8.0\ref\LinQ.dll
